@@ -6,6 +6,9 @@ https://www.jamf.com/jamf-nation/articles/553/preparing-your-organization-for-us
 #### Jamf Privacy Preference Policy Control Profile for Apple Events:
 https://github.com/jamf/JamfPrivacyPreferencePolicyControlProfiles
 
+#### Jamf Script to collect all Bundle Identifers and Code Signatures via Policy
+https://github.com/jamf/JamfPrivacyPreferencePolicyControlProfiles/blob/master/CodesignatureGather.sh
+
 #### Jamf Privacy Preference Policy Control Utility: 
 https://github.com/jamf/PPPC-Utility
 
